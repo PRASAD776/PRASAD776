@@ -1,23 +1,17 @@
 <h1 align="center">Hi..., I'm Sujan P S</h1>
 <h3 align="center">Tech Enthusiast || Programmer ||Sports</h3>
 
-<p align="left"> <a href="https://twitter.com/sujan_____" target="blank"><img src="https://img.shields.io/twitter/follow/sujan_____?logo=twitter&style=for-the-badge" alt="sujan_____" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan5757&label=Profile%20views&color=0e75b6&style=flat" alt="sujan5757" /> </p>
-
-- 🔭 I'm currently working on **Alva's Niramaya webpage**
-
 - 🌱 I’m currently learning **SQL,JAVA ,OOPS,DSA**
 
 - 📫 How to reach me **sujanmayra6362@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sujan_____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sujan_____" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sujan-ps-4a0415225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujan-ps-4a0415225/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mayra.s.167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mayra.s.167" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sujan_57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sujan_57" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sujanmayra6362/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sujanmayra6362/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sujanmayra6362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sujanmayra6362" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujan5757&show_icons=true&locale=en" alt="sujan5757" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujan5757&" alt="sujan5757" /></p
