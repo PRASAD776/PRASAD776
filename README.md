@@ -1,16 +1,16 @@
-<h1 align="center">Hi..., I'm Sujan P S</h1>
-<h3 align="center">Tech Enthusiast || Programmer ||Sports</h3>
+<h1 align="center">Prasad R Achari</h1>
+<h3 align="center">Web Developer || Programmer</h3>
 
 - 🌱 I’m currently learning **SQL,JAVA ,OOPS,DSA**
 
-- 📫 How to reach me **sujanmayra6362@gmail.com**
+- 📫 How to reach me **4al20is037@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/prasad_achari07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/prasad_achari07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prasad-achari-29b064235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prasad-achari-29b064235/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/prasad.achari.948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prasad.achari.948" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prasad7770" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prasad7770" height="30" width="40" /></a>
 
 </p>
 
