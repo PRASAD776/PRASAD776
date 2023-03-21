@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQL,JAVA ,OOPS,DSA**
 
-- 📫 How to reach me **4al20is037@gmail.com**
+- 📫 How to reach me **prasadachari7777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
