@@ -1,8 +1,4 @@
-# 
-                                                                                      Hi 👋🏻, I'm Prasad Achari
-                                                                                      I love creating new things ⚡
-                                                                                      
-                                                                                   Turning imagination into reality 🚀
+# Hi 👋🏻, I'm Prasad Achari:                                                                                
 <br>🔭 I’m currently working on exploring new applications of artificial intelligence in various fields, including healthcare and education.<br><br>👯 I’m looking to collaborate on innovative projects that involve the intersection of technology and social impact. If you have ideas related to using AI for positive change, let's connect!<br><br>🤝 I’m looking for help with staying updated on the latest advancements in natural language processing and AI ethics. If you have resources or insights to share, I'd greatly appreciate it.<br><br>🌱 I’m currently learning more about Full stack development  in java, as well as delving deeper into the ethical considerations surrounding AI.
 
 
