@@ -1,5 +1,11 @@
 #                                                                                            Hi 👋🏻, I'm Prasad Achari                                                                              
-<br>🔭 I’m currently working on exploring new applications of artificial intelligence in various fields, including healthcare and education.<br><br>👯 I’m looking to collaborate on innovative projects that involve the intersection of technology and social impact. If you have ideas related to using AI for positive change, let's connect!<br><br>🤝 I’m looking for help with staying updated on the latest advancements in natural language processing and AI ethics. If you have resources or insights to share, I'd greatly appreciate it.<br><br>🌱 I’m currently learning more about Full stack development  in java, as well as delving deeper into the ethical considerations surrounding AI.    
+🔭 I’m currently working on enhancing my skills in Python programming and exploring front-end technologies like HTML, CSS, and JavaScript.<br>
+
+👯 I’m looking to collaborate on projects that involve building dynamic and user-friendly web applications.<br> If you have innovative ideas, let's connect!<br>
+
+🤝 I’m looking for help with staying updated on the latest trends in full-stack development and best practices for creating responsive web designs.<br> If you have resources or insights to share, I'd greatly appreciate it.<br>
+
+🌱 I’m a fresher currently doing a course in Python Full-Stack Development and focusing on building strong foundations in web development.<br>
   
 
 ## 🌐 Socials:  
