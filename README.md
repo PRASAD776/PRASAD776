@@ -3,7 +3,7 @@
 🔭 I’m currently working on enhancing my skills in Python programming and exploring front-end technologies like HTML, CSS, and JavaScript.<br>
 
 👯 I’m looking to collaborate on projects that involve building dynamic and user-friendly web applications.<br> If you have innovative ideas, let's connect!<br>
-
+ 
 🤝 I’m looking for help with staying updated on the latest trends in full-stack development and best practices for creating responsive web designs.<br> If you have resources or insights to share, I'd greatly appreciate it.<br> 
    
 🌱 I’m a fresher currently doing a course in Python Full-Stack Development and focusing on building strong foundations in web development.<br>
