@@ -1,7 +1,7 @@
 ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/dcf4c296-1599-41cc-aa80-0d094978a50e)
 #                                                                                            Hi 👋🏻, I'm Prasad Achari                                                                                
 🔭 I’m currently working on enhancing my skills in Python programming and exploring front-end technologies like HTML, CSS, and JavaScript.<br>
- 
+  
 👯 I’m looking to collaborate on projects that involve building dynamic and user-friendly web applications.<br> If you have innovative ideas, let's connect!<br>
  
 🤝 I’m looking for help with staying updated on the latest trends in full-stack development and best practices for creating responsive web designs.<br> If you have resources or insights to share, I'd greatly appreciate it.<br> 
