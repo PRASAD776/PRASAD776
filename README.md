@@ -8,7 +8,7 @@
     
 🌱 I’m a fresher currently doing a course in Python Full-Stack Development and focusing on building strong foundations in web development.<br>
     
-    b
+    
 ## 🌐 Socials:      
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/prasad.achari.948/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d_e_x_.t_e_r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-achari-29b064235/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]([https://in.pinterest.com/prasadachari7777/](https://in.pinterest.com/prasadachari7777/)) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Dexter-909) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prasad_achari07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thelazyartist6686) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/prasad_achari07) 
 
