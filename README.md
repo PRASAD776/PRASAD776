@@ -1,12 +1,25 @@
  ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/dcf4c296-1599-41cc-aa80-0d094978a50e)  
 #                                                                                            Hi 👋🏻, I'm Prasad Achari                                                                                
-🔭 I’m currently working on enhancing my skills in Python programming and exploring front-end technologies like HTML, CSS, and JavaScript.<br>
-  
-👯 I’m looking to collaborate on projects that involve building dynamic and user-friendly web applications.<br> If you have innovative ideas, let's connect!<br>
- 
-🤝 I’m looking for help with staying updated on the latest trends in full-stack development and best practices for creating responsive web designs.<br> If you have resources or insights to share, I'd greatly appreciate it.<br> 
-    
-🌱 I’m a fresher currently doing a course in Python Full-Stack Development and focusing on building strong foundations in web development.<br>
+## 👋 Hi, I'm Prasad Achari
+
+🎓 I'm currently an Apprentice Trainee at **Iron Mountain**, where I'm undergoing training in:
+
+- 💾 **Database Management**
+- ☁️ **Cloud Computing**
+- 🔧 **DevOps Tools**
+- 🐍 **Python** | ☕ **Java**
+- 🔄 **OOPs Concepts**
+- 🛠️ **GitLab & Version Control**
+
+💡 I'm passionate about technology and eager to grow as a developer. I'm currently sharpening my skills in backend and infrastructure fundamentals and exploring how code and systems come together in real-world environments.
+
+📌 I'm looking forward to contributing to open-source projects, building real-world applications, and collaborating with like-minded developers.
+
+### ⚡ Fun fact:
+I love exploring new tools, working on creative side-projects, and always learning something new in tech!
+
+<!-- Let's connect - add your social links if needed -->
+
     
     
 ## 🌐 Socials:      
