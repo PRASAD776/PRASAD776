@@ -1,6 +1,5 @@
  ![github-contribution-grid-snake-dark](https://github.com/user-attachments/assets/dcf4c296-1599-41cc-aa80-0d094978a50e)  
 #                                                                                            Hi 👋🏻, I'm Prasad Achari                                                                                
-## 👋 Hi, I'm Prasad Achari
 
 🎓 I'm currently an Apprentice Trainee at **Iron Mountain**, where I'm undergoing training in:
 
